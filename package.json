@@ -1,0 +1,32 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Tuturial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioManuelSilvestre/tuturialAngular.git"
+  },
+  "keywords": [
+    "Mean",
+    "Angular",
+    "5"
+  ],
+  "author": "Sérgio Silvestre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioManuelSilvestre/tuturialAngular/issues"
+  },
+  "homepage": "https://github.com/SergioManuelSilvestre/tuturialAngular#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.8"
+  }
+}
